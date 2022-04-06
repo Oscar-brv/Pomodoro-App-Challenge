@@ -1,0 +1,10 @@
+{
+    "Config_Pomodoro": {
+        "Ciclos": 4,
+        "Work_Duration": 25,
+        "Rest": {
+            "Short_Duration": 5,
+            "Long_Duration": 15
+        }
+    }
+}
