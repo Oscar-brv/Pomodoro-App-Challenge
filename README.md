@@ -27,12 +27,6 @@ Realizar la descarga del repositorio de GitHub:
 git clone https://github.com/Oscar-brv/Pomodoro-App-Challenge.git
 ```
 
-O con el uso de una llave SSH:
-
-``` Command Line
-git clone git@github.com:Oscar-brv/Pomodoro-App-Challenge.git
-```
-
 ### Ejecución del Programa
 
 La ejecución del archivo se realiza 
